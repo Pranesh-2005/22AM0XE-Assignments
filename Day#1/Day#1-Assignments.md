@@ -45,6 +45,10 @@
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/b4e6cc1e-1e17-4593-81c4-674eaf1643bc)
+![image](https://github.com/user-attachments/assets/204f77d0-939e-4360-83c1-f410f6eb26d5)
+![image](https://github.com/user-attachments/assets/bbdc40c5-baa4-44a2-8c1d-328138f1f181)
+![image](https://github.com/user-attachments/assets/f872461e-4c72-46a1-a251-9c92fbe652cb)
 
 ***
 
