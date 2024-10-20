@@ -28,6 +28,8 @@
 > Add your answer here!
 > - Completion Badge
 > - Completion Screenshot	
+![image](https://github.com/user-attachments/assets/503eab08-fa95-4f6f-a0b8-33912ea32b32)
+![image](https://github.com/user-attachments/assets/7c922873-9cbd-4ee2-9889-118ec2443319)
 
 ***
 
