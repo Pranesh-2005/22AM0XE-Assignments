@@ -27,6 +27,7 @@
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/373b3a8f-ef5d-4bba-acf3-454171a1a5e7)
 
 ***
 
